@@ -11,6 +11,12 @@ git clone https://github.com/sirgohan/Consulta.git
 
 # Executar o script:
 ls
+
+
 cd Consulta
+
+
 ls
+
+
 python3 ip.py
